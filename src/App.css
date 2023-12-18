@@ -40,3 +40,20 @@
 .read-the-docs {
   color: #888;
 }
+
+.output{
+  width: 100%;
+  background-color: bisque;
+  color:rgb(70, 127, 127);
+  padding-top: 10px;
+}
+.output > ul {
+  text-align: start;
+  text-decoration: underline;
+}
+.App{
+ background-color:rgb(70, 127, 127);
+ color: bisque;
+ padding-bottom: 10px;
+ padding-top: 10px;
+}
